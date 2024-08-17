@@ -1,1 +1,2 @@
 # Paint-Application
+This project is a paint application developed using Object-Oriented Programming (OOP) concepts such as polymorphism and inheritance. The application leverages the OpenCV library to create various shapes, including lines, circles, rectangles, arrow lines, and ellipses. Users can also customize the colors and thickness of the shapes, providing a versatile drawing experience. This project demonstrates the effective use of OOP principles to manage different shapes and drawing tools, offering a flexible and extendable structure.
